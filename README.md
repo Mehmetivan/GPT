@@ -1,8 +1,6 @@
 # GPT
 A mini version of GPT model implementing the Transformer model by the paper "Attention Is All You Need"
 
-Absolutely — here’s a short **paragraph-style documentation** you can paste directly into your GitHub repository's README or project description.
-
 ---
 
 📄 `gpt.py` — Training Script
